@@ -1,0 +1,32 @@
+_repo: Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Charles-Dudley-Warner_3471
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PS'
+title: Quotations from the Project Gutenberg Editions of the Works of Charles Dudley
+  Warner
+url: http://www.gutenberg.org/ebooks/3471
