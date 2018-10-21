@@ -1,5 +1,5 @@
 _repo: Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Charles-Dudley-Warner_3471
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Quotations'
 - !lcc 'PS'
+- GITenberg
 title: Quotations from the Project Gutenberg Editions of the Works of Charles Dudley
   Warner
 url: http://www.gutenberg.org/ebooks/3471
